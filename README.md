@@ -9,7 +9,6 @@ The Patient Triage System is a Java-based application designed to assist healthc
 Installation
 To install the Patient Triage System, follow these steps:
 
-<br>
 
 Clone the repository from GitHub to your local machine.
 Ensure Java (version 8 or later) is installed on your system.
